@@ -1,0 +1,7 @@
+{
+  "name": "Ceiling Leak Ticketing System",
+  "description": "A comprehensive ticketing dashboard for reporting and monitoring ceiling leaks or structural issues in outlets, featuring role-based access for reporters and administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
